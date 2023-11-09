@@ -1,0 +1,1 @@
+print("sis failas yra testinis")
